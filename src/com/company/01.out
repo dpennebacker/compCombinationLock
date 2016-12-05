@@ -1,0 +1,20 @@
+Initial dial settings = [ 9 1 ]
+Raw output = "-1"
+ Analysis:
+  >> Valid solution. Total cost = 1
+
+Initial dial settings = [ 1 1 ]
+Raw output = "X"
+ Analysis:
+  >> No solution
+
+Initial dial settings = [ 4 7 9 ]
+Raw output = "-0 -0 -0 +2"
+ Analysis:
+  >> Valid solution. Total cost = 4
+
+Initial dial settings = [ 2 7 4 0 4 3 ]
+Raw output = "+1 +1 +1 -2 -3 +4 +4 +4 +4 +4 +5 +5"
+ Analysis:
+  >> Valid solution. Total cost = 12
+
